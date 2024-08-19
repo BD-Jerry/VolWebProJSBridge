@@ -1,0 +1,16 @@
+PODS:
+  - VolWebProJSBridge (0.1.0)
+
+DEPENDENCIES:
+  - VolWebProJSBridge (from `../`)
+
+EXTERNAL SOURCES:
+  VolWebProJSBridge:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  VolWebProJSBridge: d3c153a9dbadb6357cb620a5895c42acb196786d
+
+PODFILE CHECKSUM: f75491eb9d556ad9a5a7cf7a12e6e0a635a851f0
+
+COCOAPODS: 1.10.1

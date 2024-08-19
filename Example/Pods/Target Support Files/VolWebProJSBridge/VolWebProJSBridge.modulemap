@@ -1,0 +1,6 @@
+framework module VolWebProJSBridge {
+  umbrella header "VolWebProJSBridge-umbrella.h"
+
+  export *
+  module * { export * }
+}
